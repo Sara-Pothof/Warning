@@ -1,0 +1,5 @@
+.bloem:hover {text-decoration: none} 
+.hide {display:none}
+/* Do the shift: */
+.bloem:hover img:first-child{display:none}
+.bloem:hover img:last-child{display:inline-block}
